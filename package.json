@@ -2,6 +2,7 @@
   "name": "stream-safe",
   "displayName": "Stream Safe",
   "description": "Prevent API keys or other sensitive information leaking by confirming file opens.",
+  "repository": "https://github.com/Ricerob/stream-safe",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"

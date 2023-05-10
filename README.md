@@ -28,3 +28,8 @@ Initial release with:
 - Adding open file to sensitive files
 - Removing open file to sensitive files
 - Background obscufation & warning modal when opening a file that is sensitive
+
+## Links
+If this extension helped, [throw me a star!](https://github.com/Ricerob/stream-safe)
+
+Check out my [personal website.](https://www.rehbu.me/)
